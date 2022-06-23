@@ -1,0 +1,5 @@
+jupyter_contrib_nbextensions
+ipywidgets==7.6.5
+matplotlib
+numpy==1.21.6
+ipympl
